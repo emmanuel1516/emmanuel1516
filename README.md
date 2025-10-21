@@ -30,7 +30,7 @@ Plataforma creada con React y Express.
 - Gestión de productos y consumo de API.  
 - Diseño responsive e interfaz moderna.
 
-#### 🎮 [Juego del Ahorcado (Arquitectura MVC en Java)](https://github.com/emmanuel1516/ahorcadoModel), (https://github.com/emmanuel1516/ahorcadoView), (https://github.com/emmanuel1516/ahorcadoBusiness)
+#### 🎮 [Juego del Ahorcado (Arquitectura MVC en Java)](https://github.com/emmanuel1516), (https://github.com/emmanuel1516/ahorcadoModel), (https://github.com/emmanuel1516/ahorcadoView), (https://github.com/emmanuel1516/ahorcadoBusiness)
 Proyecto educativo dividido en tres módulos independientes: modelo, negocio y vista.  
 - Desarrollado en Java con enfoque MVC y principios de POO.  
 - Separación de capas para lógica, datos e interfaz.  
