@@ -1,61 +1,94 @@
-# 👋 ¡Hola! Soy Emmanuel Martínez  
+<h1 align="center">Hola, soy Emmanuel Martínez 👋</h1>
 
-💻 **Desarrollador Full Stack | Analista en Informática**  
-📍 Bragado, Buenos Aires, Argentina  
-📧 emmanuel2531903@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/emmanuel-martinez-477943192)
+<h3 align="center">Desarrollador Full Stack · Analista en Informática</h3>
 
----
+<p align="center">
+  Java · Spring Boot · React · Node.js · NestJS
+</p>
 
-### 🚀 Sobre mí  
-Soy un desarrollador Full Stack apasionado por crear aplicaciones web completas, con foco en la arquitectura backend y la experiencia de usuario frontend.  
-Busco aplicar mis conocimientos para desarrollar soluciones escalables y de impacto real.
+<p align="center">
+  <a href="https://linkedin.com/in/emmanuel-martinez-477943192">LinkedIn</a> ·
+  <a href="https://porfolio-emmanuel-martinez.vercel.app/">Portfolio</a> ·
+  <a href="mailto:emmanuel2531903@gmail.com">Email</a>
+</p>
 
----
+## Sobre mí
 
-### 🧩 Tecnologías y Herramientas  
+Soy Analista en Informática y desarrollador Full Stack de Bragado, Buenos Aires. Desarrollo aplicaciones web completas, con especial interés en backend, modelado de datos, seguridad y reglas de negocio.
 
-**Frontend:** React, HTML, CSS, Sass, MUI  
-**Backend:** Node.js, Express, Spring Boot, JWT  
-**Bases de datos:** MongoDB, MySQL, PostgreSQL  
-**Herramientas:** Git, GitHub, Vercel, Postman, Cloudinary, VS Code  
+Mi proyecto principal actual es una plataforma SaaS multi-tenant para la gestión de guarderías, utilizada por un centro real. Me interesa aportar en equipos de desarrollo backend o full stack y seguir profundizando en arquitecturas mantenibles y soluciones con impacto concreto.
 
----
+- Español nativo · Inglés intermedio (B1)
 
-### 💼 Proyectos Destacados  
+## Tecnologías
 
-#### 👟 [SneakerZone (Tienda de zapatillas)](https://github.com/emmanuel1516/PROYECTO-INTEGRADOR-EM)
-Plataforma creada con React y Express.  
-- Hooks personalizados y rutas dinámicas con React Router.  
-- Gestión de productos y consumo de API.  
-- Diseño responsive e interfaz moderna.
+| Área | Tecnologías |
+| --- | --- |
+| **Backend** | Java, Spring Boot, Node.js, NestJS, Express, APIs REST, JWT |
+| **Frontend** | React, JavaScript, TypeScript, HTML, CSS, Sass, MUI |
+| **Bases de datos** | PostgreSQL, MySQL, MongoDB, Prisma, Mongoose |
+| **Herramientas y deploy** | Git, GitHub, Postman, Vercel, Railway, Cloudflare Pages, Neon, Cloudinary |
 
-#### 🎮 [Juego del Ahorcado (Arquitectura MVC en Java)](https://github.com/emmanuel1516), (https://github.com/emmanuel1516/ahorcadoModel), (https://github.com/emmanuel1516/ahorcadoView), (https://github.com/emmanuel1516/ahorcadoBusiness)
-Proyecto educativo dividido en tres módulos independientes: modelo, negocio y vista.  
-- Desarrollado en Java con enfoque MVC y principios de POO.  
-- Separación de capas para lógica, datos e interfaz.  
-- Control de intentos, detección de victoria/derrota y validación de entradas.  
-- Código modular y escalable.
+## Proyectos destacados
 
-#### 🎾 [Punto de Oro (Sistema de Gestión de Pádel)](https://github.com/emmanuel1516/PuntoDeOro)
-Sistema integral para la administración de clubes de pádel.  
-- Desarrollado en Java con Spring Boot y PostgreSQL.  
-- Control de usuarios, administradores, torneos, parejas y canchas.  
-- Implementación de seguridad con JWT y Spring Security.  
-- Auditorías, ranking de jugadores y roles personalizados.  
-- Arquitectura MVC con división en controladores, servicios y repositorios.
+### Guardería SaaS — gestión multi-tenant
 
----
+**React · NestJS · Prisma · PostgreSQL · JWT**
 
-### 🎓 Formación  
+Plataforma web utilizada por un centro real para administrar alumnos, responsables, salas, asistencias y cuotas.
 
-- **Bootcamp Full Stack Engineer** — EducaciónIT & Manhattan University (153 hs)  
-- **Analista en Informática** — UNSADA  
-- **Argentina Programa (Etapa 1 y 2)** — Java Inicial  
-- **Udemy** — Curso de Python orientado a novatos  
+- Separación de datos por organización y control de acceso por roles.
+- Backend modular, autenticación con JWT y persistencia con Prisma.
+- Frontend responsive y despliegue en la nube.
+- Proyecto privado, disponible para mostrar en una entrevista.
 
----
+### [Comida Casita MX — gestión gastronómica](https://github.com/emmanuel1516/comida-casita-mx) · [Demo](https://comida-casita-mx.vercel.app/)
 
-### 🌐 Estadísticas  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuel1516&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel1516&layout=compact&theme=react)
+**React · Node.js · Express · MongoDB · JWT**
+
+Sistema full stack desarrollado como prueba técnica para gestionar categorías, platillos, mesas, meseros, pedidos, cocina y reportes.
+
+- Autenticación y permisos para administradores y meseros.
+- Pedidos de mesa y delivery con actualización automática del estado de las mesas.
+- Dashboard diario, reportes y diseño mobile-first.
+
+### [Punto de Oro — gestión de clubes de pádel](https://github.com/emmanuel1516/PuntoDeOro)
+
+**Java · Spring Boot · PostgreSQL · Spring Security · JWT**
+
+Sistema para administrar usuarios, torneos, parejas, canchas y rankings.
+
+- Arquitectura por controladores, servicios y repositorios.
+- Autenticación, autorización por roles y auditoría de operaciones.
+- Reglas de negocio para la gestión de competencias.
+
+### [E-commerce Full Stack](https://github.com/emmanuel1516/PROYECTO-INTEGRADOR-EM) · [Demo](https://proyecto-integrador-f1.vercel.app/)
+
+**React · Node.js · Express · MongoDB · Cloudinary**
+
+E-commerce desarrollado de forma colaborativa durante el Bootcamp Full Stack de EducaciónIT.
+
+- API REST organizada por capas, validaciones y manejo centralizado de errores.
+- Gestión de productos e imágenes, formulario de contacto y notificaciones por email.
+- Integración completa entre frontend, backend y servicios externos.
+
+## Formación
+
+- **Analista en Informática** — UNSADA
+- **Full Stack Advanced** — ITBA, 2025 · Proyecto grupal: e-commerce *Hermanos Jota*
+- **Bootcamp Full Stack Engineer** — EducaciónIT & Manhattan University, 153 h
+
+## Estadísticas de GitHub
+
+<p align="center">
+  <img height="165" alt="Estadísticas de GitHub de Emmanuel" src="https://github-stats-extended.vercel.app/api?username=emmanuel1516&show_icons=true&theme=react&locale=es&hide_border=true" />
+  <img height="165" alt="Lenguajes más usados por Emmanuel" src="https://github-stats-extended.vercel.app/api/top-langs/?username=emmanuel1516&layout=compact&theme=react&hide_border=true&langs_count=6" />
+</p>
+
+## Contacto
+
+Estoy abierto a conversar sobre oportunidades de desarrollo backend y full stack.
+
+- [LinkedIn](https://linkedin.com/in/emmanuel-martinez-477943192)
+- [Portfolio](https://porfolio-emmanuel-martinez.vercel.app/)
+- [emmanuel2531903@gmail.com](mailto:emmanuel2531903@gmail.com)
